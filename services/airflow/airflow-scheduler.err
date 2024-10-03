@@ -1,0 +1,5 @@
+[2024-10-03 12:03:57 +0300] [31806] [INFO] Starting gunicorn 23.0.0
+[2024-10-03 12:03:57 +0300] [31806] [INFO] Listening at: http://[::]:8793 (31806)
+[2024-10-03 12:03:57 +0300] [31806] [INFO] Using worker: sync
+[2024-10-03 12:03:57 +0300] [31807] [INFO] Booting worker with pid: 31807
+[2024-10-03 12:03:57 +0300] [31809] [INFO] Booting worker with pid: 31809

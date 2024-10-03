@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/436eca67d40748d6be0bd12109d8bc14/artifacts
+end_time: 1727942000213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 436eca67d40748d6be0bd12109d8bc14
+run_name: auspicious-stork-322
+run_uuid: 436eca67d40748d6be0bd12109d8bc14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727941983053
+status: 3
+tags: []
+user_id: kate

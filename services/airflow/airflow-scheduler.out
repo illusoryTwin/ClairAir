@@ -1,0 +1,16 @@
+[2024-10-03T12:03:57.512+0300] {executor_loader.py:254} INFO - Loaded executor: SequentialExecutor
+[2024-10-03T12:03:57.538+0300] {scheduler_job_runner.py:935} INFO - Starting the scheduler
+[2024-10-03T12:03:57.539+0300] {scheduler_job_runner.py:942} INFO - Processing each file at most -1 times
+[2024-10-03T12:03:57.543+0300] {manager.py:174} INFO - Launched DagFileProcessorManager with pid: 31808
+[2024-10-03T12:03:57.544+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:03:57.546+0300] {settings.py:63} INFO - Configured default timezone UTC
+[2024-10-03T12:03:57.567+0300] {manager.py:406} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[2024-10-03T12:08:57.705+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:13:57.850+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:18:57.988+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:23:58.131+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:28:58.273+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:33:58.407+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:38:58.932+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:43:59.101+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-03T12:48:59.238+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs

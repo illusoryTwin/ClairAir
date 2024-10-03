@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/8bf50a9e78d34ef0bbffe65a59a196e7/artifacts
+end_time: 1727942000141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bf50a9e78d34ef0bbffe65a59a196e7
+run_name: able-grouse-613
+run_uuid: 8bf50a9e78d34ef0bbffe65a59a196e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727941983053
+status: 3
+tags: []
+user_id: kate

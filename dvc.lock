@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  clean:
+    cmd: python3 code/datasets/preprocess_data.py
+    deps:
+    - path: code/datasets/preprocess_data.py
+      hash: md5
+      md5: 863d951d0a653f6b306b1bb059810650
+      size: 5864
+    - path: data/raw/CO2_emission.csv
+      hash: md5
+      md5: 4733deb3085170d20656bb9a586290ff
+      size: 65118
+    outs:
+    - path: data/preprocessed/test_data.csv
+      hash: md5
+      md5: b74dc82d1642379595a44c0acff9ac77
+      size: 5544
+    - path: data/preprocessed/train_data.csv
+      hash: md5
+      md5: 9528d67532334c4bbb6d2064fea40df2
+      size: 21829

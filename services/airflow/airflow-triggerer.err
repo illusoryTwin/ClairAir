@@ -1,0 +1,5 @@
+[2024-10-03 12:05:33 +0300] [32037] [INFO] Starting gunicorn 23.0.0
+[2024-10-03 12:05:33 +0300] [32037] [INFO] Listening at: http://[::]:8794 (32037)
+[2024-10-03 12:05:33 +0300] [32037] [INFO] Using worker: sync
+[2024-10-03 12:05:33 +0300] [32038] [INFO] Booting worker with pid: 32038
+[2024-10-03 12:05:33 +0300] [32039] [INFO] Booting worker with pid: 32039

@@ -1,0 +1,9 @@
+stages:
+  clean:
+    cmd: python3 code/datasets/preprocess_data.py
+    deps:
+      - data/raw/CO2_emission.csv
+      - code/datasets/preprocess_data.py
+    outs:
+      - data/preprocessed/train_data.csv
+      - data/preprocessed/test_data.csv

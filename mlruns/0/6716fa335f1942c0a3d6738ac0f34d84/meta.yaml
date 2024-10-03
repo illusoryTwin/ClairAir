@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/6716fa335f1942c0a3d6738ac0f34d84/artifacts
+end_time: 1727942000141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6716fa335f1942c0a3d6738ac0f34d84
+run_name: powerful-hen-501
+run_uuid: 6716fa335f1942c0a3d6738ac0f34d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727941983053
+status: 3
+tags: []
+user_id: kate
