@@ -147,3 +147,17 @@
 [2024-10-04T08:15:10.481+0300] {manager.py:549} INFO - Deactivated 1 DAGs which are no longer present in file.
 [2024-10-04T08:15:10.492+0300] {manager.py:553} INFO - Deleted DAG dvc_pipeline in serialized_dag table
 [2024-10-04T08:18:18.893+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-04T08:23:19.035+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-04T08:28:19.173+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-04T08:29:19.046+0300] {manager.py:537} INFO - DAG dvc_pipeline_dag is missing and will be deactivated.
+[2024-10-04T08:29:19.048+0300] {manager.py:549} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2024-10-04T08:29:19.059+0300] {manager.py:553} INFO - Deleted DAG dvc_pipeline_dag in serialized_dag table
+[2024-10-04T08:33:19.310+0300] {scheduler_job_runner.py:1847} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-10-04T08:37:22.082+0300] {scheduler_job_runner.py:260} INFO - Exiting gracefully upon receiving signal 15
+[2024-10-04T08:37:22.179+0300] {process_utils.py:132} INFO - Sending Signals.SIGTERM to group 31808. PIDs of all processes in the group: []
+[2024-10-04T08:37:22.179+0300] {process_utils.py:87} INFO - Sending the signal Signals.SIGTERM to group 31808
+[2024-10-04T08:37:22.180+0300] {process_utils.py:101} INFO - Sending the signal Signals.SIGTERM to process 31808 as process group is missing.
+[2024-10-04T08:37:22.182+0300] {process_utils.py:132} INFO - Sending Signals.SIGTERM to group 31808. PIDs of all processes in the group: []
+[2024-10-04T08:37:22.182+0300] {process_utils.py:87} INFO - Sending the signal Signals.SIGTERM to group 31808
+[2024-10-04T08:37:22.182+0300] {process_utils.py:101} INFO - Sending the signal Signals.SIGTERM to process 31808 as process group is missing.
+[2024-10-04T08:37:22.182+0300] {scheduler_job_runner.py:1014} INFO - Exited execute loop
