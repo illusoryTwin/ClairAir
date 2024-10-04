@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/3743b3e231af4c098bcc8c616e210645/artifacts
+end_time: 1728019191532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3743b3e231af4c098bcc8c616e210645
+run_name: selective-fowl-159
+run_uuid: 3743b3e231af4c098bcc8c616e210645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019172873
+status: 3
+tags: []
+user_id: kate

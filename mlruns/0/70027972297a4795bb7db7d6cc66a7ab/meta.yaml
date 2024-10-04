@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/70027972297a4795bb7db7d6cc66a7ab/artifacts
+end_time: 1728019105484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70027972297a4795bb7db7d6cc66a7ab
+run_name: gregarious-finch-695
+run_uuid: 70027972297a4795bb7db7d6cc66a7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019087663
+status: 3
+tags: []
+user_id: kate

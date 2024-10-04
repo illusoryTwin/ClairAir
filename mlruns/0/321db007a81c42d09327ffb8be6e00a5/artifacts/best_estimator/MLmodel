@@ -1,0 +1,28 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 14982
+model_uuid: 131ee561db4e47509bde2755cf7796f9
+run_id: 321db007a81c42d09327ffb8be6e00a5
+signature:
+  inputs: '[{"type": "long", "name": "Make", "required": true}, {"type": "long", "name":
+    "Model", "required": true}, {"type": "long", "name": "Vehicle_Class", "required":
+    true}, {"type": "double", "name": "Engine_Size", "required": true}, {"type": "long",
+    "name": "Transmission", "required": true}, {"type": "double", "name": "Fuel_Consumption_in_City",
+    "required": true}, {"type": "double", "name": "Smog_Level", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-10-04 05:15:57.082696'

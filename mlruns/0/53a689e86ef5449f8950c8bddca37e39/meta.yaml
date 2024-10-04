@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/53a689e86ef5449f8950c8bddca37e39/artifacts
+end_time: 1728019301406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53a689e86ef5449f8950c8bddca37e39
+run_name: debonair-hawk-953
+run_uuid: 53a689e86ef5449f8950c8bddca37e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019283080
+status: 3
+tags: []
+user_id: kate

@@ -1,9 +1,37 @@
+#stages:
+#  clean:
+#    cmd: PYTHONPATH=. python3 code/datasets/preprocess_data.py
+#    deps:
+#      - data/raw/CO2_emission.csv
+#      - code/datasets/preprocess_data.py
+#    outs:
+#      - data/preprocessed/train_data.csv
+#      - data/preprocessed/test_data.csv
+
+
 stages:
   clean:
-    cmd: python3 code/datasets/preprocess_data.py
+    cmd: PYTHONPATH=. python3 code/datasets/preprocess_data.py
     deps:
       - data/raw/CO2_emission.csv
       - code/datasets/preprocess_data.py
     outs:
       - data/preprocessed/train_data.csv
       - data/preprocessed/test_data.csv
+
+  train:
+    cmd: PYTHONPATH=. python3 code/models/co2_predict_model.py
+    deps:
+      - data/preprocessed/train_data.csv
+      - code/models/co2_predict_model.py
+    outs:
+      - models/co2_emission_model/1/model.pkl
+
+#  evaluate:
+#    cmd: PYTHONPATH=. python3 code/models/evaluate_model.py
+#    deps:
+#      - models/model.pkl
+#      - data/preprocessed/test_data.csv
+#      - code/models/evaluate_model.py
+#    outs:
+#      - results/evaluation.json

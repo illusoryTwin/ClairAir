@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/2551e1918e044a8c93c8e458e141ab50/artifacts
+end_time: 1728019252040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2551e1918e044a8c93c8e458e141ab50
+run_name: useful-finch-539
+run_uuid: 2551e1918e044a8c93c8e458e141ab50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019233813
+status: 3
+tags: []
+user_id: kate

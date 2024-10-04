@@ -72,7 +72,7 @@ with mlflow.start_run(run_name=run_name, experiment_id=experiment_id) as run:
     )
 
     # Save the model locally
-    local_model_path = "models/co2_emission_model"
+    local_model_path = "models/co2_emission_model/1"
     mlflow.sklearn.save_model(best_model, local_model_path)
 
     # Output results

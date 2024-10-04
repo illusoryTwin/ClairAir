@@ -1,12 +1,12 @@
 schema: '2.0'
 stages:
   clean:
-    cmd: python3 code/datasets/preprocess_data.py
+    cmd: PYTHONPATH=. python3 code/datasets/preprocess_data.py
     deps:
     - path: code/datasets/preprocess_data.py
       hash: md5
-      md5: 863d951d0a653f6b306b1bb059810650
-      size: 5864
+      md5: b1e61e4b59d7924576f8970b2b568f04
+      size: 5943
     - path: data/raw/CO2_emission.csv
       hash: md5
       md5: 4733deb3085170d20656bb9a586290ff
@@ -20,3 +20,19 @@ stages:
       hash: md5
       md5: 9528d67532334c4bbb6d2064fea40df2
       size: 21829
+  train:
+    cmd: PYTHONPATH=. python3 code/models/co2_predict_model.py
+    deps:
+    - path: code/models/co2_predict_model.py
+      hash: md5
+      md5: 4f098155074b7ef9d95125d6d6af4671
+      size: 2648
+    - path: data/preprocessed/train_data.csv
+      hash: md5
+      md5: 9528d67532334c4bbb6d2064fea40df2
+      size: 21829
+    outs:
+    - path: models/co2_emission_model/1/model.pkl
+      hash: md5
+      md5: 61774182da4907fdca3bb5246b45732c
+      size: 14982

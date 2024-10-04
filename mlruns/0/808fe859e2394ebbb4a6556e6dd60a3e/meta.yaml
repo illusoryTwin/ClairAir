@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/808fe859e2394ebbb4a6556e6dd60a3e/artifacts
+end_time: 1728019301406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808fe859e2394ebbb4a6556e6dd60a3e
+run_name: amazing-horse-69
+run_uuid: 808fe859e2394ebbb4a6556e6dd60a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019283080
+status: 3
+tags: []
+user_id: kate

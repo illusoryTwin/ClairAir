@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/7946c3b3c7554136905cd8e5eb3c5ef7/artifacts
+end_time: 1728019252115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7946c3b3c7554136905cd8e5eb3c5ef7
+run_name: unique-rook-919
+run_uuid: 7946c3b3c7554136905cd8e5eb3c5ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019233813
+status: 3
+tags: []
+user_id: kate

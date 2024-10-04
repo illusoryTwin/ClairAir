@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/41e160d7491d4432947c3627021a6d44/artifacts
+end_time: 1728019105484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41e160d7491d4432947c3627021a6d44
+run_name: awesome-roo-379
+run_uuid: 41e160d7491d4432947c3627021a6d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019087663
+status: 3
+tags: []
+user_id: kate

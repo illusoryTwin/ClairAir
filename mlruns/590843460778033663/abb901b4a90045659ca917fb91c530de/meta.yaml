@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/590843460778033663/abb901b4a90045659ca917fb91c530de/artifacts
+end_time: 1728019107908
+entry_point_name: ''
+experiment_id: '590843460778033663'
+lifecycle_stage: active
+run_id: abb901b4a90045659ca917fb91c530de
+run_name: run 01
+run_uuid: abb901b4a90045659ca917fb91c530de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019105563
+status: 3
+tags: []
+user_id: kate

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/2f346ae656be4ebba8e96ddad730f868/artifacts
+end_time: 1728019105484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f346ae656be4ebba8e96ddad730f868
+run_name: intrigued-hog-331
+run_uuid: 2f346ae656be4ebba8e96ddad730f868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019087663
+status: 3
+tags: []
+user_id: kate

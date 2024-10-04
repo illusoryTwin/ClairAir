@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/MLOps_extended/mlruns/0/5489d8d187b54e82826c2c79038da972/artifacts
+end_time: 1728019252040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5489d8d187b54e82826c2c79038da972
+run_name: righteous-bass-224
+run_uuid: 5489d8d187b54e82826c2c79038da972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728019233813
+status: 3
+tags: []
+user_id: kate
